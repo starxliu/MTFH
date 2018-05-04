@@ -25,10 +25,15 @@ This code uses some public software packages by the 3rd party applications, and 
 This package contains cleaned up codes for the MTFH, including:
 
 MTFH_demo.m: test example on public Wiki dataset
+
 bitCompact.m: function to compute the compact hash code matrix
+
 hammingDist.m: function to compute the hamming distance between two sets
+
 kernelMatrix.m: function to compute a kernel matrix
+
 perf_metric4Label.m: function to compute mAP for retrieval evaluation
+
 rndsolveUHV2.m: function to optimize the solution of MTFH
 
 
