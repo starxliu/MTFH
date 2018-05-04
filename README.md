@@ -38,5 +38,6 @@ rndsolveUHV2.m: function to optimize the solution of MTFH
 
 
 ################ Citation ################
+
 Xin Liu, Zhikai Hu, Haibin Ling, and Yiu-ming Cheung; MTFH: A Matrix Tri-Factorization Hashing Framework for Efficient Cross-Modal Retrieval, 
 
