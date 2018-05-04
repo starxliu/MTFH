@@ -1,7 +1,7 @@
 # MTFH
 Matlab demo code for "MTFH: A Matrix Tri-Factorization Hashing Framework for Efficient Cross-Modal Retrieval" 
 
-![image](https://github.com/starxliu/MTFH/blob/master/data/framework.jpg）
+![image](https://github.com/starxliu/MTFH/blob/master/data/framework.jpg)
 
 ############### Information ################
 
