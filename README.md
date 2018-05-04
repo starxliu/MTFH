@@ -4,6 +4,7 @@ Matlab demo code for "MTFH: A Matrix Tri-Factorization Hashing Framework for Eff
 ############### Information ################
 
 Matlab demo code for "MTFH: A Matrix Tri-Factorization Hashing Framework for Efficient Cross-Modal Retrieval" 
+
 Authors: Xin Liu, Zhikai Hu, Haibin Ling, and Yiu-ming Cheung;
 Contact: xliu@hqu.edu.cn; zkhu@hqu.edu.cn
 
