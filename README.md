@@ -3,7 +3,7 @@ Matlab demo code for "MTFH: A Matrix Tri-Factorization Hashing Framework for Eff
 
 ![image](https://github.com/starxliu/MTFH/blob/master/data/framework.jpg)
 
-The framework of our proposed MTFH algorithm.
+The framework of MTFH algorithm.
 
 ############### Information ################
 
