@@ -2,7 +2,7 @@
 % Reference:
 % Xin Liu, Zhikai Hu, Haibin Ling, and Yiu-ming Cheung
 % "MTFH: A Matrix Tri-Factorization Hashing Framework for Efficient Cross-Modal Retrieval"
-%
+% arXiv:1805.01963
 
 clear all
 addpath('data/')
@@ -55,7 +55,7 @@ for q1 = bits       %
         anchor1 = I_tr(anchorIndex, :);
         anchor2 = T_tr(anchorIndex, :);
         
-        % count ¦Ò^2
+        % count Â¦Ã’^2
         z = I_tr * I_tr';
         z = repmat(diag(z), 1, n1)  + repmat(diag(z)', n1, 1) - 2 * z;
         sigma1 = mean(z(:));
@@ -127,7 +127,7 @@ for q1 = bits       %
         map(tag, 5) = map12;
         map(tag, 6) = map21;
         
-        fprintf('result--------------------------£º\n map11 = %.4f\n map22 = %.4f\n map12 = %.4f\n map21 = %.4f\n', ...
+        fprintf('result--------------------------Â£Âº\n map11 = %.4f\n map22 = %.4f\n map12 = %.4f\n map21 = %.4f\n', ...
             map11, map22, map12, map21);
         
         tag = tag + 1;
