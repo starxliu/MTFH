@@ -3,8 +3,9 @@ function [ U, V, U_, V_, H1, H2 ] = rndsolveUHV2( alpha, beta, q1, q2, S, U, U_,
 % Reference:
 % Xin Liu, Zhikai Hu, Haibin Ling, and Yiu-ming Cheung
 % "MTFH: A Matrix Tri-Factorization Hashing Framework for Efficient Cross-Modal Retrieval"
-% Version1.0 -- May/2018
-%
+% arXiv:1805.01963
+% created by Zhikai Hu, Version1.0 -- May/2018
+
  
     iter = 1;
     times = 10;
