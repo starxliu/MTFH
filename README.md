@@ -1,5 +1,5 @@
 # MTFH
-Matlab demo code for "MTFH: A Matrix Tri-Factorization Hashing Framework for Efficient Cross-Modal Retrieval" 
+Matlab demo code for "MTFH: A Matrix Tri-Factorization Hashing Framework for Efficient Cross-Modal Retrieval", arXiv:1805.01963
 
 ![image](https://github.com/starxliu/MTFH/blob/master/data/framework.jpg)
 
@@ -43,5 +43,5 @@ rndsolveUHV2.m: function to optimize the solution of MTFH
 
 ################ Citation ################
 
-Xin Liu, Zhikai Hu, Haibin Ling, and Yiu-ming Cheung; MTFH: A Matrix Tri-Factorization Hashing Framework for Efficient Cross-Modal Retrieval, 
+Xin Liu, Zhikai Hu, Haibin Ling, and Yiu-ming Cheung; MTFH: A Matrix Tri-Factorization Hashing Framework for Efficient Cross-Modal Retrieval, arXiv:1805.01963
 
