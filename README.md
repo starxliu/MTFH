@@ -1,5 +1,5 @@
 # MTFH
-Matlab demo code for "MTFH: A Matrix Tri-Factorization Hashing Framework for Efficient Cross-Modal Retrieval", arXiv:1805.01963
+Matlab demo code for "MTFH: A Matrix Tri-Factorization Hashing Framework for Efficient Cross-Modal Retrieval", to appear in IEEE Transactions on Pattern Analysis and Machine Intelligence, doi:10.1109/TPAMI.2019.2940446
 
 ![image](https://github.com/starxliu/MTFH/blob/master/data/framework.jpg)
 
@@ -41,7 +41,7 @@ perf_metric4Label.m: function to compute mAP for retrieval evaluation
 rndsolveUHV2.m: function to optimize the solution of MTFH
 
 
-################ Citation ################
+################ Citation and Thanks  ################
 
-Xin Liu, Zhikai Hu, Haibin Ling, and Yiu-ming Cheung; MTFH: A Matrix Tri-Factorization Hashing Framework for Efficient Cross-Modal Retrieval, arXiv:1805.01963
+Xin Liu, Zhikai Hu, Haibin Ling, and Yiu-ming Cheung; MTFH: A Matrix Tri-Factorization Hashing Framework for Efficient Cross-Modal Retrieval, IEEE Transactions on Pattern Analysis and Machine Intelligence, doi:10.1109/TPAMI.2019.2940446
 
