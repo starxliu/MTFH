@@ -2,7 +2,7 @@
 % Reference:
 % Xin Liu, Zhikai Hu, Haibin Ling, and Yiu-ming Cheung
 % "MTFH: A Matrix Tri-Factorization Hashing Framework for Efficient Cross-Modal Retrieval"
-% arXiv:1805.01963
+% IEEE Transactions on Pattern Analysis and Machine Intelligence, doi:10.1109/TPAMI.2019.2940446
 
 clear all
 addpath('data/')
